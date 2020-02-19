@@ -1,17 +1,4 @@
-public class AddTwoNumbers {
-
-   public static void main(String[] args) {
-        
-      int num1 = 5, num2 = 15, sum;
-      sum = num1 + num2;
-
-      System.out.println("Sum of these numbers: "+sum);
-   }
-
-   public static void main(String args[])
-   {
-      System.out.println("This is a test");  
-   }
+public class JavaExample {
 
     public static void main(String[] args) {
 
@@ -24,5 +11,11 @@ public class AddTwoNumbers {
         }
         System.out.println("Factorial of "+number+" is: "+fact);
     }
-
+    
+    public static void main(String args[])
+    {
+        int a,b,c;
+        c=a-b;
+        Sysytem.out.println(c);
+    }
 }
