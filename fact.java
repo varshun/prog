@@ -11,4 +11,11 @@ public class JavaExample {
         }
         System.out.println("Factorial of "+number+" is: "+fact);
     }
+    
+    public static void main(String args[])
+    {
+        int a,b,c;
+        c=a-b;
+        Sysytem.out.println(c);
+    }
 }
